@@ -24,7 +24,7 @@ This README will guide you through setting up the project and getting the graph 
    Assuming you installed Node.js and npm correctly in Homework 1, navigate to the root of the cloned repository and run the following command to install
    the necessary Node.js dependencies.
    ```bash
-   cd csc343-f23-hw4-<your-username>
+   cd csc343-f23-hw6-<your-username>
    npm install
    ```
    
